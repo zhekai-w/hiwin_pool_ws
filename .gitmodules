@@ -1,0 +1,12 @@
+[submodule "Hiwin_libmodbus"]
+	path = Hiwin_libmodbus
+	url = ./hiwin_pool_ws/Hiwin_libmodbus/
+[submodule "hand-eye-calibration_ROS2"]
+	path = hand-eye-calibration_ROS2
+	url = ./hand-eye-calibration_ROS2/
+[submodule "realsense-ros"]
+	path = realsense-ros
+	url = ./realsense-ros/
+[submodule "ros2_aruco"]
+	path = ros2_aruco
+	url = ./ros2_aruco/
